@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Yash Walia 
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a CS Undergrad, Developer, and constantly curious
 - 🔭 I’m currently working on a !
 - 🌱 I’m currently learning  🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to read and play guitar
 
 ### Connect with me:
 
