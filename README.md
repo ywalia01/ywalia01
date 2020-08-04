@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a CS Undergrad, Developer, and Constantly Curious
+## I'm a CS Undergrad, Developer, and Programmer
 - 🔭 I’m currently working on a Web Application
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on projects
