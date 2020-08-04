@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yash Walia 
 
-## I'm a CS Undergrad, Developer, and constantly curious
+## I'm a CS Undergrad, Developer, and Constantly Curious
 - 🔭 I’m currently working on a !
 - 🌱 I’m currently learning  🤣
 - 👯 I’m looking to collaborate with other content creators
