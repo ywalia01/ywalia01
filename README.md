@@ -34,6 +34,6 @@
 <br />
 
 [website]: https://ywalia01.github.io/
-[twitter]: https://twitter.com/yashbest005
+[twitter]: https://twitter.com/ywalia01
 [instagram]: https://www.instagram.com/notyashwalia/
 [linkedin]: https://www.linkedin.com/in/yash-walia-97620516b/
