@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Web Application
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on projects
-- 🥅 2020 Goals: Contribute more to Open Source
+- 🥅 2021 Goals: Contribute more to Open Source
 - ⚡ Fun fact: I love to read and play guitar
 
 ### Connect with me:
