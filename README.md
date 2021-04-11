@@ -11,8 +11,7 @@
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt=" | Twitter" width="22px" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" />][twitter]
-[<img align="left" alt=" | LinkedIn" width="22px" src="![image](https://user-images.githubusercontent.com/48391286/114293832-1c55a680-9ab7-11eb-9928-7d02dd2388ad.png)
-" />][linkedin]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />][linkedin]
 [<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
