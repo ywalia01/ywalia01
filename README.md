@@ -16,6 +16,9 @@
 
 <br />
 <br />
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywalia01)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
 
 [website]: https://ywalia01.github.io/
 [twitter]: https://twitter.com/ywalia01
