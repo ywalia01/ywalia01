@@ -16,7 +16,7 @@
 
 <br />
 <br />
-[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywalia01)](https://github.com/ywalia01/github-readme-stats)
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywalia01&show_icons=true&theme=radical)](https://github.com/ywalia01/github-readme-stats)
 <br />
 <br />
 
