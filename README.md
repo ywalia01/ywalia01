@@ -16,11 +16,10 @@
 
 <br />
 <br />
-[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywalia01&show_icons=true&theme=radical)](https://github.com/ywalia01/github-readme-stats)
-<br />
-<br />
 
 [website]: https://ywalia01.github.io/
 [twitter]: https://twitter.com/ywalia01
 [instagram]: https://www.instagram.com/notyashwalia/
 [linkedin]: https://www.linkedin.com/in/yash-walia-97620516b/
+
+[![Manas's github stats](https://github-readme-stats.vercel.app/api?username=Manas502&show_icons=true&theme=radical)](https://github.com/Manas502/github-readme-stats)
