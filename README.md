@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm a CS Undergrad, Developer, and Programmer
-<img src="https://komarev.com/ghpvc/?username=ywalia01&color=blueviolet&style=flat">
+<img src="https://komarev.com/ghpvc/?username=ywalia01&color=brightgreen&style=flat-square">
 - 🔭 I’m currently working on a Web Application
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on projects
