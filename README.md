@@ -23,7 +23,7 @@
 <br />
 <br />
 
-[website]: https://ywalia01.github.io/
+[website]: https://ywalia01.netlify.app/
 [twitter]: https://twitter.com/ywalia01
 [instagram]: https://www.instagram.com/notyashwalia/
 [linkedin]: https://www.linkedin.com/in/yash-walia-97620516b/
